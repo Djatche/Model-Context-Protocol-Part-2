@@ -1,0 +1,6 @@
+Default values to use if not specified by the user:
+    - Vaccine coverage: 100%
+    - Wastage rate: 0.15
+    - Safety stock: 0.15
+    - Doses per vial: 20
+    - Proportion under 59 months: 0.15
